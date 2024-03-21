@@ -1,1 +1,7 @@
-node_modules/
+/Backend/data.csv
+/Backend/data.txt
+/Backend/data2.csv
+/Backend/temp.py
+/Backend/venv
+/sk
+/Frontend
