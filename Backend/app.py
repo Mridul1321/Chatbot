@@ -15,6 +15,7 @@ tqa = pipeline(task="table-question-answering",model="google/tapas-base-finetune
 
 
 
+
 @app.route('/product',methods=['GET','POST'])
 def products():
     
